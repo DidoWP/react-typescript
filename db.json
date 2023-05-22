@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "e549e5fa-5cba-4260-95bc-b04c7f1f4385",
+      "name": "Dido",
+      "username": "dasdsa",
+      "password": "dsadsa",
+      "sex": "male",
+      "role": "user",
+      "picture": "sad",
+      "description": "",
+      "status": "active",
+      "registerDate": "2023-05-21T20:37:05.735Z",
+      "lastModification": "2023-05-21T20:37:05.735Z"
+    },
+    {
+      "id": "a8d099ce-a17a-45dc-8999-d1eb6d598535",
+      "name": "Natali",
+      "username": "dasdsa",
+      "password": "dsadsa",
+      "sex": "male",
+      "role": "user",
+      "picture": "sad",
+      "description": "",
+      "status": "active",
+      "registerDate": "2023-05-21T20:37:56.063Z",
+      "lastModification": "2023-05-21T20:37:56.063Z"
+    },
+    {
+      "id": "6299d3f2-d97b-4761-89fe-6d595085fbd0",
+      "name": "Didaka",
+      "username": "didoepich",
+      "password": "didoepich",
+      "sex": "male",
+      "role": "admin",
+      "picture": "",
+      "description": "",
+      "status": "active",
+      "registerDate": "2023-05-22T17:57:44.572Z",
+      "lastModification": "2023-05-22T17:57:44.572Z"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "b84625b1-afd1-4e1a-832d-bc5c8e72a5e8",
+      "userId": "6299d3f2-d97b-4761-89fe-6d595085fbd0",
+      "title": "Баница",
+      "briefDescription": "Селска баница със сирене",
+      "time": "60м",
+      "products": "сирене, кори, яйца",
+      "picture": "",
+      "description": "ааааааааааааа",
+      "tags": "#baba#ba",
+      "registerDate": "2023-05-22T20:24:53.116Z",
+      "lastModification": "2023-05-22T20:24:53.116Z"
+    },
+    {
+      "id": "104905af-da8f-4433-bbdb-77e2d140e3c0",
+      "userId": "6299d3f2-d97b-4761-89fe-6d595085fbd0",
+      "title": "Мусака",
+      "briefDescription": "На Натю мусаката",
+      "time": "2 часа",
+      "products": "Картофи, кайма, лук, пипер",
+      "picture": "",
+      "description": "",
+      "tags": "#natio#the#best",
+      "registerDate": "2023-05-22T20:45:59.574Z",
+      "lastModification": "2023-05-22T20:45:59.574Z"
+    }
+  ]
+}
